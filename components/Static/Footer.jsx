@@ -46,14 +46,7 @@ export default function Footer() {
                         
                         </div>
                         <div className="col-span-1">
-                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p>
-                            <div>
-                                <Link href="https://bit.ly/3LYzaDe">
-                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Vote Bot
-                                    </a>
-                                </Link>
-                            </div>
+                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p> 
                             <div>
                                 <a href="https://discord.gg/ZcDprCrFTn" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Support Server
@@ -75,14 +68,14 @@ export default function Footer() {
                                 </Link>
                             </div>
                             <div>
-                                <Link href="https://github.com/1umutda/MusicBot">
+                                <Link href="">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-github`} /> GitHub 
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <Link href="https://youtube.com/UmutBayraktarYT">
+                                <Link href="">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-youtube`} /> YouTube 
                                     </a>
