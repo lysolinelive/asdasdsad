@@ -12,18 +12,7 @@ class MyDocument extends Document {
           <meta
             name="description"
             content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
-          />
-          <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@MusicMaker" />
-          <meta name="twitter:creator" content="@MusicMaker" />
-          <meta property="og:url" content="https://musicmaker.vercel.app" />
-          <meta property="og:type" content="website" />
-          <meta property="og:title" content="MusicMaker" />
-          <link
-            rel="icon"
-            href="https://cdn.discordapp.com/attachments/1014356400358572052/1136999773388419072/Lysolineavatar.png"
-            type="image/x-icon"
-          />
+          />  
           <meta
             property="og:description"
             content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
