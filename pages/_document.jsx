@@ -21,7 +21,7 @@ class MyDocument extends Document {
           <meta property="og:title" content="MusicMaker" />
           <link
             rel="icon"
-            href="/img/logo2.png"
+            href="https://cdn.discordapp.com/attachments/1014356400358572052/1136999773388419072/Lysolineavatar.png"
             type="image/x-icon"
           />
           <meta
