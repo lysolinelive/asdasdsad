@@ -29,7 +29,7 @@ export default function Commands() {
     <>
       <div>
       <div className="flex w-full justify-center">
-      <img width="500" src="/img/bck2.png" />
+      <img width="500" src="https://cdn.discordapp.com/attachments/1014356400358572052/1136999773388419072/Lysolineavatar.png" />
       </div>
         <p className="text-xl font-medium text-white">
           <i className="fal fa-cogs text-amber-400 mr-2" />
