@@ -11,15 +11,14 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
+            content="Lysoline BOT İnvite"
           />  
           <meta
             property="og:description"
-            content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
+            content="Lysoline BOT İnvite"
           />
           <meta property="og:image" content="https://cdn.discordapp.com/attachments/1014356400358572052/1136999773388419072/Lysolineavatar.png" />
-          <meta property="og:image:alt" content="Lysoline BOT" />
-          <meta property="og:locale" content="en_GB" />
+          <meta property="og:image:alt" content="Lysoline BOT" /> 
           <meta
             property="og:site_name"
             content="Lysoline BOT"
