@@ -86,7 +86,7 @@ export default function Index() {
               <p className="text-3xl text-white font-semibold">Best Your Bot</p>
               <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Lysoline, the best and most up-to-date bot?</p>
             </div>
-            <img src="https://cdn.discordapp.com/attachments/737348411568685066/983094813115170866/unknown.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+            <img src="https://cdn.discordapp.com/attachments/1014356400358572052/1136999773388419072/Lysolineavatar.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
           </>
       </div>
     </>
