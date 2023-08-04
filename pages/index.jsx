@@ -7,7 +7,7 @@ export default function Index() {
     <>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full justify-center">
-          <img width="500" src="/img/bck.png" />
+          <img width="500" src="https://cdn.discordapp.com/attachments/1014356400358572052/1136999773388419072/Lysolineavatar.png" />
         </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
           Lysoline Bot
